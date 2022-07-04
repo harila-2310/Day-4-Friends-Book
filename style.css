@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: url(./asset/friendship.jpg);
+    background-size: cover;
+}
+.container{
+    background: skyblue;
+    opacity: 0.5;
+    border-radius: 20px;
+    margin-left: 25vh;
+    margin-top: 7vh;
+    width: 80vw;
+    height: 130vh;
+    text-align: center;
+}
+#textBox1{
+    width: 20vw;
+    height: 15vh;
+
+}
+#textBox3{
+    width: 20vw;
+    height: 15vh;
+}
+
